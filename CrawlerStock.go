@@ -1,4 +1,4 @@
-package crawlertock
+package crawlers
 
 import (
 	"fmt"

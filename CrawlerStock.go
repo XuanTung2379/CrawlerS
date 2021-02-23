@@ -1,4 +1,4 @@
-package crawlers
+package CrawlerStock
 
 import (
 	"fmt"
